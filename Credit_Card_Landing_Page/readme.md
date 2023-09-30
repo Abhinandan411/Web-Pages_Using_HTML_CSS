@@ -1,4 +1,4 @@
-# 🛡️Project Name : Credit Card Landin Page💳
+# 🛡️Project Name : Credit Card Landing Page💳
 
 ## 🎯This project is made by using pure HTML and CSS 
 
